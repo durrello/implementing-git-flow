@@ -1,4 +1,4 @@
-# implementing-git-flow
+# Implementing-git-flow
 ![title](images/process.png)
 
 ## What is the gitflow branching strategy
